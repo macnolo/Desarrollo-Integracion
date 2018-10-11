@@ -4,3 +4,35 @@
 2018-10-11 12:44:35.769 +0200	Productos	0	campos importados : 20
 2018-10-11 12:44:35.769 +0200	Dasboard CRM.fmp12	0	tablas importados : 1
 2018-10-11 12:44:35.769 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:45:36.124 +0200	Dasboard CRM.fmp12	0	Importación de operaciones consignada
+2018-10-11 12:45:36.124 +0200	Dasboard CRM.fmp12	0	==================================================================
+2018-10-11 12:49:48.550 +0200	Dasboard CRM.fmp12	0	Importación de guiones desde el portapapeles iniciada
+2018-10-11 12:49:48.551 +0200	Dasboard CRM.fmp12	0	Guión “Subguión | Ir a detalles del proyecto” importado como “Subguión | Ir a detalles del proyecto 2” pues ya existe un guión llamado “Subguión | Ir a detalles del proyecto”.
+2018-10-11 12:49:48.553 +0200	Subguión | Ir a detalles del proyecto 2	0	pasos de guión importados : 8
+2018-10-11 12:49:48.553 +0200	Dasboard CRM.fmp12	0	guiones importados : 1
+2018-10-11 12:49:48.554 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:50:09.483 +0200	Dasboard CRM.fmp12	0	Importación de guiones desde el portapapeles iniciada
+2018-10-11 12:50:09.485 +0200	Dasboard CRM.fmp12	0	Guión “Mostrar todos los proyectos” importado como “Mostrar todos los proyectos 2” pues ya existe un guión llamado “Mostrar todos los proyectos”.
+2018-10-11 12:50:09.488 +0200	Mostrar todos los proyectos 2	0	pasos de guión importados : 9
+2018-10-11 12:50:09.489 +0200	Dasboard CRM.fmp12	0	guiones importados : 1
+2018-10-11 12:50:09.489 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:50:22.671 +0200	Dasboard CRM.fmp12	0	Importación de guiones desde el portapapeles iniciada
+2018-10-11 12:50:22.672 +0200	Dasboard CRM.fmp12	0	Guión “Mostrar mis proyectos” importado como “Mostrar mis proyectos 2” pues ya existe un guión llamado “Mostrar mis proyectos”.
+2018-10-11 12:50:22.674 +0200	Mostrar mis proyectos 2	0	pasos de guión importados : 15
+2018-10-11 12:50:22.675 +0200	Dasboard CRM.fmp12	0	guiones importados : 1
+2018-10-11 12:50:22.675 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:51:35.097 +0200	Dasboard CRM.fmp12	0	Importación de pasos de guión desde el portapapeles iniciada
+2018-10-11 12:51:35.099 +0200	Navegar por las secciones del proyecto [Get Script Parameter]	0	pasos de guión importados : 4
+2018-10-11 12:51:35.099 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:52:11.707 +0200	Dasboard CRM.fmp12	0	Importación de pasos de guión desde el portapapeles iniciada
+2018-10-11 12:52:11.708 +0200	Seleccionar usuario de inicio de sesión | Selector	0	pasos de guión importados : 1
+2018-10-11 12:52:11.708 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:53:08.772 +0200	Dasboard CRM.fmp12	0	Importación de pasos de guión desde el portapapeles iniciada
+2018-10-11 12:53:08.774 +0200	Fin de sesión de usuario actual | Selector [Finalizar sesión]	0	pasos de guión importados : 1
+2018-10-11 12:53:08.774 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 12:53:42.362 +0200	Dasboard CRM.fmp12	0	Importación de pasos de guión desde el portapapeles iniciada
+2018-10-11 12:53:42.369 +0200	Fin de sesión de usuario actual | Selector [Finalizar sesión]	0	pasos de guión importados : 1
+2018-10-11 12:53:42.369 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-11 13:01:40.321 +0200	Dasboard CRM.fmp12	0	Importación de pasos de guión desde el portapapeles iniciada
+2018-10-11 13:01:40.322 +0200	Navegar por las secciones del proyecto | Móvil [Get Script Parameter]	0	pasos de guión importados : 2
+2018-10-11 13:01:40.322 +0200	Dasboard CRM.fmp12	0	Importación completada
