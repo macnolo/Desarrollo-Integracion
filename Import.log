@@ -51,3 +51,15 @@
 2018-10-11 13:19:07.032 +0200	Activar | Búsqueda rápida del proyecto 2	0	pasos de guión importados : 31
 2018-10-11 13:19:07.033 +0200	Dasboard CRM.fmp12	0	guiones importados : 1
 2018-10-11 13:19:07.034 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-15 14:36:59.748 +0200	Dasboard CRM.fmp12	0	Importación de operaciones iniciada
+2018-10-15 14:36:59.748 +0200	Dasboard CRM.fmp12	0	Importación de tablas desde el portapapeles iniciada
+2018-10-15 14:36:59.782 +0200	Clientes::Número de presupuestos | Todos	106	Falta la tabla a la que se hace referencia en el cálculo “Count ( Presupuestos::ID del presupuesto )”.
+2018-10-15 14:36:59.782 +0200	Clientes::Número de presupuestos | Aceptados	106	Falta la tabla a la que se hace referencia en el cálculo “Count ( Presupuestos aceptados::ID del presupuesto )”.
+2018-10-15 14:36:59.783 +0200	Clientes::Número de presupuestos | Pendientes	106	Falta la tabla a la que se hace referencia en el cálculo “Count ( Presupuestos pendientes::ID del presupuesto )”.
+2018-10-15 14:36:59.784 +0200	Clientes::Presupuestos totales | Aceptados	106	Falta la tabla a la que se hace referencia en el cálculo “If 	( 	Número de presupuestos | Aceptados = 0 ; 0 ;	Sum ( Presupuestos aceptados::Total general ) 	)”.
+2018-10-15 14:36:59.785 +0200	Clientes::Presupuestos totales | Pendientes	106	Falta la tabla a la que se hace referencia en el cálculo “If 	( 	Número de presupuestos | Pendientes = 0 ; 0 ;	Sum ( Presupuestos pendientes::Total general ) 	)”.
+2018-10-15 14:36:59.789 +0200	Clientes	0	campos importados : 34
+2018-10-15 14:36:59.789 +0200	Dasboard CRM.fmp12	0	tablas importados : 1
+2018-10-15 14:36:59.789 +0200	Dasboard CRM.fmp12	0	Importación completada
+2018-10-15 14:37:31.509 +0200	Dasboard CRM.fmp12	0	Importación de operaciones consignada
+2018-10-15 14:37:31.509 +0200	Dasboard CRM.fmp12	0	==================================================================
